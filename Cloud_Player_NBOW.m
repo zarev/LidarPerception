@@ -7,7 +7,7 @@
 %clear space, set parameters, load/convert pclouds
 clc; clear all; tic;   
 file_type   =   'mat';
-source_dir  =   'C:\Users\mzarev\Desktop\LidarTasks\mat';
+source_dir  =   'path/to/files';
 pcloud      =   batch_load(source_dir, file_type);
 
 %% Set the Scene

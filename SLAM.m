@@ -12,7 +12,7 @@
 % world maps for simultaneous localization and mapping (SLAM).
 
 %% Register Two Point Clouds
-% pcloud = load('C:\Users\mzarev\Documents\Luminar\Sandpit\banbury00012');
+% pcloud = load('\banbury00012');
 
 % Extract two consecutive point clouds and use the first point cloud as
 % reference
